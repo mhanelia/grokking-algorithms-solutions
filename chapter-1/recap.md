@@ -1,4 +1,4 @@
-### Recap
+# Recap
 
 - Binary search is much faster than linear search.
 - O(log n) is faster than O(n), and O(\log n) becomes even faster as the elements in the list increase.
