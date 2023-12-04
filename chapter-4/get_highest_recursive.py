@@ -1,7 +1,6 @@
 def get_highest_recursive(arr):
     if len(arr) == 0:
-        return -1
-
+        return 0
     else:
         highest = get_highest_recursive(arr[1:])
 
